@@ -1,0 +1,28 @@
+.content{
+    /*border: 2px solid black;*/
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 100;
+}
+
+.buttons{
+    /*border: 2px solid black;*/
+    margin: 5px 450px 5px 450px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: black;
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 20px;   
+}
+
+.buttons:hover{
+    background-color: rgb(47, 47, 47);
+}
+.buttons:active{
+    background-color: rgb(143, 143, 143);
+}
+
